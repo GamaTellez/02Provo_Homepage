@@ -1,0 +1,48 @@
+#titlediv {
+    position:absolute;
+    right: 0px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(90deg, #0D832C , #F6FBF7 , #C70039);
+    font-style: italic;
+}
+
+#homepagetitle {
+    text-align: left;
+     display: inline;
+     padding-left: 20px;
+}
+
+#assignmentslink {
+    padding-left: 300px;
+}
+
+#assignmentslink:hover {
+    font-size: 40px;
+}
+
+#contentdiv {
+    margin-top: 50px;
+    display: inline-block;
+}
+
+#mynameheader {
+    margin-left: 20px;
+}
+
+#aboutmetext {
+    word-wrap: break-all;
+    text-align: justify;
+    width: 30%;
+    margin-left: 80px;
+    float: left;
+}
+
+#trishandi {
+    float: right;
+    margin-right: 20%;
+}
+
+#asssignmentspagetitle {
+    margin-top: 50px;
+}
