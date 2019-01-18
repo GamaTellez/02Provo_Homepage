@@ -8,6 +8,7 @@
     
         <div id="titlediv">
             <h1 id="homepagetitle">Welcome to CS313 Homepage</h1> 
+            <img id="escudoMexico" src="escudoMex.png" width="100" height="100">
             <a id="assignmentslink" href="assignmentspage.html">Winter 2019 Assigments</a>
         </div>
     
@@ -27,7 +28,7 @@
             <img src="trishandi.jpg" id="trishandi" width="400" height="400">
         </div>
 
-        <div id="liveclock">
+        <div>
             <h4> My current time in Hidalgo, Mexico is:</h4>
             <?php
               date_default_timezone_set('America/Mexico_City');
